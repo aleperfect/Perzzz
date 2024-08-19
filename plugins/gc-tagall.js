@@ -8,7 +8,7 @@ let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, comma
   let teks = `🍀 𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛 PLATAFORMAS, BOTS, CUENTAS FF, DIAMANTES Y CLANES FF🎭
    ${oi}\n\n🛍️ *https://chat.whatsapp.com/JdZt0ICENcS44BLkP78C31*\n`
   for (let mem of participants) {
-  teks += `🔥 @${mem.id.split('@')[0]}\n`}
+  teks += `🎭 @${mem.id.split('@')[0]}\n`}
   teks += `𝑷𝒆𝒓𝒛𝒛𝒛💸`
   conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
   }
