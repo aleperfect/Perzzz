@@ -11,19 +11,19 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['51992621601', 'Botcito Sexi', true],
-  ['51992621601', 'Botcito Sexi 1', true],
-  ['51992621601', 'Botcito Sexi 2', true],
-  ['51992621601', 'Botcito Sexi 3', true],
-  ['51992621601', 'Botcito Sexi 4', true],
-  ['51992621601', 'Botcito Sexi 5', true],
-  ['51992621601', 'Botcito Sexi 6', false],
-  ['51992621601', 'Botcito Sexi 7', true],
-  ['51992621601', 'Botcito Sexi 8', true],
-  ['51992621601', 'Botcito Sexi 9', true],
-  ['51992621601', 'Botcito Sexi 19', true], 
-  ['51992621601', 'Botcito Sexi 11', true],
-  ['51992621601', 'Botcito Sexi 12', true], 
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 1', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 2', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 3', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 4', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 5', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 6', false],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 7', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 8', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 9', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 19', true], 
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 11', true],
+  ['51992621601', '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸 12', true], 
   ['51992621601'],
   ['51992621601'],
   ['51992621601'],
@@ -50,11 +50,11 @@ global.suittag = ['51992621601'];
 global.prems = ['51992621601'];
 
 global.packname = 'Sticker';
-global.author = 'Readz Aleizn';
-global.wm = 'Readz Aleizn';
-global.titulowm = 'Readz Aleizn';
-global.titulowm2 = `Readz Aleizn`
-global.igfg = 'Readz Aleizn';
+global.author = '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸';
+global.wm = '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸';
+global.titulowm = '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸';
+global.titulowm2 = `𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸`
+global.igfg = '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,9 +79,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nReadz Aleizn`;
-global.gt = 'Readz Aleizn';
-global.mysticbot = 'Readz Aleizn';
+global.wm2 = `${dia} ${fecha}\n𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸`;
+global.gt = '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸';
+global.mysticbot = '𝑽𝒆𝒏𝒕𝒂𝒔 𝑷𝒆𝒓𝒛𝒛𝒛💸';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
